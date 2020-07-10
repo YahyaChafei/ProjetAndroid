@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GuessingGame</string>
+    <string name="str_devinez">devinez</string>
+    <string name="str_score">score</string>
+</resources>
